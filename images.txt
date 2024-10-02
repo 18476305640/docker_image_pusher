@@ -3,3 +3,4 @@ jenkins/jenkins:2.392-jdk11
 nacos/nacos-server:v2.2.0
 seataio/seata-server:1.6.1
 rabbitmq:3.7-rc-management
+rabbitmq:3.12.12-management
