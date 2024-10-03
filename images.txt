@@ -4,3 +4,4 @@ nacos/nacos-server:v2.2.0
 seataio/seata-server:1.6.1
 rabbitmq:3.7-rc-management
 rabbitmq:3.12.12-management
+rabbitmqoperator/cluster-operator:1.7.0
