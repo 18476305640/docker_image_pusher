@@ -5,3 +5,5 @@ seataio/seata-server:1.6.1
 rabbitmq:3.7-rc-management
 rabbitmq:3.12.12-management
 rabbitmqoperator/cluster-operator:1.7.0
+alpine:3.6
+elasticsearch:7.9.3
