@@ -11,3 +11,4 @@ logstash:7.9.3
 kubeimages/filebeat:7.9.3
 kubeimages/kibana:7.9.3
 kubeimages/logstash:7.9.3
+goharbor/prepare:v2.8.2
