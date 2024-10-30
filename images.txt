@@ -28,3 +28,4 @@ xuxueli/xxl-job-admin:2.4.0
 nginx:latest
 node:18.11.0-alpine
 node:17.9.1-alpine
+node:22.11.0-alpine
