@@ -32,5 +32,4 @@ node:17.9.1-alpine
 node:22.11.0-alpine
 ngrok/ngrok:latest
 lin2ur/kt-connect-shadow:0.3.7
-
-
+bitnami/rabbitmq:4.0.4-debian-12-r1
