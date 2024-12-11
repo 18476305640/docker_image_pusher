@@ -8,6 +8,7 @@ rabbitmq:3.12.12
 rabbitmq:3.12.12-management
 rabbitmq:3.8.3-management
 rabbitmq:3.8.5
+rabbitmqoperator/cluster-operator:2.11.0
 rabbitmqoperator/cluster-operator:1.7.0
 alpine:3.6
 elasticsearch:7.9.3
