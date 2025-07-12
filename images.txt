@@ -36,3 +36,4 @@ ngrok/ngrok:latest
 lin2ur/kt-connect-shadow:0.3.7
 bitnami/rabbitmq:4.0.4-debian-12-r1
 redis/redis:7-alpine
+datawire/tel2:2.15.1
